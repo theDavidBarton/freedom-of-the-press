@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/freedom-of-the-press/precache-manifest.6bc89088a67e74574779864eff60c432.js"
+  "/freedom-of-the-press/precache-manifest.1b6b6afc5c194e9f447d6fda4d9c22be.js"
 );
 
 self.addEventListener('message', (event) => {
