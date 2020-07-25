@@ -19,7 +19,6 @@ h1,
 
 .bg-text:before {
   max-height: calc(100vh - 7.5rem);
-  opacity: 36%;
   color: lightgray;
   font-size: 2.7rem;
   text-align: center;
