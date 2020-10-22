@@ -1,15 +1,15 @@
 {
-  "homepage": "https://theDavidBarton.github.io/freedom-of-the-press",
+  "homepage": ".",
   "license": "MIT",
   "name": "freedom-of-the-press",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "3.1.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
